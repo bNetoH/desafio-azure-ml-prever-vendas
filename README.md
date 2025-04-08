@@ -3,23 +3,25 @@
 Objetivo implantar e treinar modelo de Regressão Linear para prever vendas.
 
 ## Estrutura do Projeto
-.
-│   .gitignore
-│   gerar_amostras.py
-│   script_ml.py
-│   README.md
-│   requirements.txt
-│   compute-creating.png
-│   job-running.png
-│   ml-azure-com.png
-│   workspace.png
-│   LICENSE
-│
-└───sorvetes_ml
-    │   script_ml.ipynb
-    │
-    └───inputs
-            historico.csv
+```
+. 
+│   .gitignore 
+│   gerar_amostras.py 
+│   script_ml.py 
+│   README.md 
+│   requirements.txt 
+│   compute-creating.png 
+│   job-running.png 
+│   ml-azure-com.png 
+│   workspace.png 
+│   LICENSE 
+│ 
+└───sorvetes_ml 
+    │   script_ml.ipynb 
+    │ 
+    └───inputs 
+            historico.csv 
+```
 
 ## Gerador de amostras
 
